@@ -1,0 +1,2 @@
+module LifelessesHelper
+end
